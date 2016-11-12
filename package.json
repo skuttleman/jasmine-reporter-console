@@ -15,5 +15,8 @@
     "testing"
   ],
   "author": "skuttleman@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
