@@ -1,6 +1,6 @@
 {
   "name": "jasmine-reporter-console",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A basic console reporter for jasmine. Written with ES6. Will require transpiling on older versions of node.",
   "main": "index.js",
   "scripts": {
